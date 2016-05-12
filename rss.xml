@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Podniebienie]]></title>
         <description><![CDATA[Podniebienie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/podniebienie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 18:51:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 18:55:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/podniebienie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tutaj kiedyś będą wszystkie najlepsze przepisy!]]></title>
             <description><![CDATA[<article><h1>Tutaj kiedyś będą wszystkie najlepsze przepisy!</h1><p> Z tym postanowieniem założyłam tę stronę. Co prawda w chwili pisania tego tekstu miała ona dopiero 3 dni i były na niej tylko 3 przepisy ale tak strasznie nie mogę się doczekać kiedy będą ich tu już miliony. Wtedy właśnie, przeczytam ten napis ze świadomością, że nigdy nie będę w stanie spełnić swojego postanowienia.</p></article>]]></description>
-            <link>undefinedtutaj-kiedys-beda-wszystkie-najlepsze-przepisy/index.html</link>
+            <link>https://thegrid.ai/podniebienie/tutaj-kiedys-beda-wszystkie-najlepsze-przepisy/index.html</link>
             <guid isPermaLink="false">b4e2c7c3-602a-4081-91a1-021dc474fdba</guid>
-            <pubDate>Thu, 12 May 2016 18:49:56 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 18:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
