@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Z tym postanowieniem założyłam tę stronę. Co prawda w chwili pisania tego tekstu miała ona dopiero 3 dni i były na niej tylko 3 przepisy ale tak strasznie nie mogę się doczekać kiedy będą ich tu już miliony. Wtedy właśnie, przeczytam ten napis ze świadomością, że nigdy nie będę w stanie spełnić swojego postanowienia.'
-datePublished: '2016-05-12T18:49:56.440Z'
-dateModified: '2016-05-12T18:49:34.987Z'
+datePublished: '2016-05-12T18:54:59.106Z'
+dateModified: '2016-05-12T18:54:44.577Z'
 title: 'Tutaj kiedyś będą wszystkie najlepsze przepisy!'
 author: []
+sourcePath: _posts/2016-05-12-tutaj-kiedys-beda-wszystkie-najlepsze-przepisy.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-tutaj-kiedys-beda-wszystkie-najlepsze-przepisy.md
 url: tutaj-kiedys-beda-wszystkie-najlepsze-przepisy/index.html
 _type: Article
 
