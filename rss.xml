@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Podniebienie]]></title>
-        <description><![CDATA[Podniebienie]]></description>
+        <title><![CDATA[Tylko najlepsze przepisy]]></title>
+        <description><![CDATA[Tylko najlepsze przepisy]]></description>
         <link>https://thegrid.ai/podniebienie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 19:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 19:07:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/podniebienie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tutaj kiedyś będą wszystkie najlepsze przepisy!]]></title>
             <description><![CDATA[<article><h1>Tutaj kiedyś będą wszystkie najlepsze przepisy!</h1><p> Najlepsze przepisy po prostu się nie kończą. To właśnie w gotowaniu jest najcudowniejsze!</p></article>]]></description>
             <link>https://thegrid.ai/podniebienie/tutaj-kiedys-beda-wszystkie-najlepsze-przepisy/index.html</link>
             <guid isPermaLink="false">b4e2c7c3-602a-4081-91a1-021dc474fdba</guid>
-            <pubDate>Thu, 12 May 2016 19:01:34 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 19:07:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
