@@ -1,9 +1,7 @@
-favicon: null
 name: Podniebienie
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.258
+typography_spectrum: 0.35466
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Tylko najlepsze przepisy
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.7437276
-  lightness: 1
   brandColors:
     - '#E6DEC9'
     - '#141318'
     - '#50453F'
     - '#F6372C'
     - '#856A5F'
+  brandStrength: 0.7437276
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.7204301
-typography_spectrum: 0.35466
-layout_spectrum: 0.258
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
