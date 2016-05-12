@@ -1,7 +1,7 @@
 name: Podniebienie
 favicon: null
-layout_spectrum: 0.2598704576957971
-typography_spectrum: 0.3427081119734794
+layout_spectrum: 0.49305
+typography_spectrum: 0.35466
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9009976226370782
+  brandStrength: 0.5
   lightness: 0.8667680921498686
-  saturation: 0.9352560387924314
-  rhythmicContrast: 0.6462892820127308
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
