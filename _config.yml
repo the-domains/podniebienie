@@ -1,28 +1,40 @@
-name: Podniebienie
 favicon: null
-layout_spectrum: 0.258
-typography_spectrum: 0.35466
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Podniebienie
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5
-  lightness: 0.8667680921498686
-  saturation: 0.875
-  rhythmicContrast: 0.75
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 0.7437276
+  lightness: 1
+  brandColors:
+    - '#E6DEC9'
+    - '#141318'
+    - '#50453F'
+    - '#F6372C'
+    - '#856A5F'
+  rhythmicContrast: 0.7204301
+typography_spectrum: 0.35466
+layout_spectrum: 0.258
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
