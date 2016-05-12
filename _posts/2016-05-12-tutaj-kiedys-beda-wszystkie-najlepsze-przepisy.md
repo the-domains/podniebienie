@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Najlepsze przepisy po prostu się nie kończą. To właśnie w gotowaniu jest najcudowniejsze!'
-datePublished: '2016-05-12T19:01:34.999Z'
-dateModified: '2016-05-12T18:59:55.847Z'
+datePublished: '2016-05-12T19:07:23.116Z'
+dateModified: '2016-05-12T19:01:43.398Z'
 title: 'Tutaj kiedyś będą wszystkie najlepsze przepisy!'
 author: []
 sourcePath: _posts/2016-05-12-tutaj-kiedys-beda-wszystkie-najlepsze-przepisy.md
