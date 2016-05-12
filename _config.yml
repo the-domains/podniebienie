@@ -1,0 +1,28 @@
+name: Podniebienie
+favicon: null
+layout_spectrum: 0.2598704576957971
+typography_spectrum: 0.3427081119734794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9009976226370782
+  lightness: 0.8667680921498686
+  saturation: 0.9352560387924314
+  rhythmicContrast: 0.6462892820127308
+purpose: []
